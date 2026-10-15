@@ -1,5 +1,9 @@
 # Nhật ký thay đổi
 
+## 1.26.1 – 2026-10-15
+- Ghi ảnh vào layer mới an toàn hơn trên ảnh RAW (chọn đúng layer + công cụ Move, thử nhiều cách ghi).
+- Thông báo lỗi hiện rõ bước đang chạy và thông tin ảnh.
+
 ## 1.26.0 – 2026-10-15
 - Sửa lỗi với ảnh RAW mở từ Camera Raw (Smart Object): "Could not open …CR3", "Could not update smart object files", "Could not make a new layer from the selection".
 - Nhóm hiệu ứng luôn nằm trên mọi layer của người dùng.
