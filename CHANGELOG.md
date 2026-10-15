@@ -1,5 +1,8 @@
 # Nhật ký thay đổi
 
+## 1.26.4 – 2026-10-15
+- Layer và nhóm hiệu ứng mới luôn nằm ở cấp trên cùng, không chui vào nhóm khác.
+
 ## 1.26.3 – 2026-10-15
 - Đọc ảnh thử nhiều kiểu (8/16-bit, có/không chỉ định không gian màu), chuyển Move tool, thử lại không dùng history khi Photoshop báo lỗi.
 
