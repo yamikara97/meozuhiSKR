@@ -1,8 +1,8 @@
 {
-  "version": "1.25.0",
+  "version": "1.26.0",
   "date": "2026-10-15",
   "url": "https://github.com/yamikara97/meozuhiSKR/raw/main/meozuhiSRT.ccx",
   "page": "https://github.com/yamikara97/meozuhiSKR",
-  "notes": "Tự kiểm tra cập nhật; núm xoay chọn hướng; thanh màu có hút màu.",
+  "notes": "Sửa lỗi với ảnh RAW (Smart Object), nhóm hiệu ứng luôn nằm trên cùng, thêm logo và nút Hướng dẫn từng tab.",
   "minVersion": "1.0.0"
 }

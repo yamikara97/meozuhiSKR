@@ -1,5 +1,10 @@
 # Nhật ký thay đổi
 
+## 1.26.0 – 2026-10-15
+- Sửa lỗi với ảnh RAW mở từ Camera Raw (Smart Object): "Could not open …CR3", "Could not update smart object files", "Could not make a new layer from the selection".
+- Nhóm hiệu ứng luôn nằm trên mọi layer của người dùng.
+- Thêm logo, biểu tượng plugin và nút "? Hướng dẫn" ở đầu mỗi tab.
+
 ## 1.25.0 – 2026-10-15
 - Tự kiểm tra cập nhật khi mở panel, nút "Tải bản mới" và "Kiểm tra cập nhật".
 - Núm xoay chọn hướng (Rim light, Đèn 2 bên, Glow Pro, điểm bắt sáng mắt).
