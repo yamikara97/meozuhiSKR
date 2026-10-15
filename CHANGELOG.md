@@ -1,5 +1,8 @@
 # Nhật ký thay đổi
 
+## 1.26.3 – 2026-10-15
+- Đọc ảnh thử nhiều kiểu (8/16-bit, có/không chỉ định không gian màu), chuyển Move tool, thử lại không dùng history khi Photoshop báo lỗi.
+
 ## 1.26.2 – 2026-10-15
 - Sửa lỗi "Could not use the Patch tool" / "Could not update smart object files" trên ảnh RAW: đọc ảnh từng layer thay vì ảnh tổng hợp.
 
