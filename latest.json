@@ -1,8 +1,8 @@
 {
-  "version": "1.26.1",
+  "version": "1.26.2",
   "date": "2026-10-15",
   "url": "https://github.com/yamikara97/meozuhiSKR/raw/main/meozuhiSRT.ccx",
   "page": "https://github.com/yamikara97/meozuhiSKR",
-  "notes": "Ghi ảnh vào layer mới an toàn hơn trên ảnh RAW; thông báo lỗi rõ bước và thông tin ảnh.",
+  "notes": "Sửa lỗi đọc ảnh trên file RAW (Patch tool / smart object files).",
   "minVersion": "1.0.0"
 }

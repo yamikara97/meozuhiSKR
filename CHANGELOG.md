@@ -1,5 +1,8 @@
 # Nhật ký thay đổi
 
+## 1.26.2 – 2026-10-15
+- Sửa lỗi "Could not use the Patch tool" / "Could not update smart object files" trên ảnh RAW: đọc ảnh từng layer thay vì ảnh tổng hợp.
+
 ## 1.26.1 – 2026-10-15
 - Ghi ảnh vào layer mới an toàn hơn trên ảnh RAW (chọn đúng layer + công cụ Move, thử nhiều cách ghi).
 - Thông báo lỗi hiện rõ bước đang chạy và thông tin ảnh.
