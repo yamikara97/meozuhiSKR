@@ -1,5 +1,8 @@
 # Nhật ký thay đổi
 
+## 1.27.0 – 2026-10-22
+- Thử nghiệm Glow Pro "Chỉnh trực tiếp": kéo thanh xem ngay trên ảnh, Lưu giữ lại (thông số nằm trong tên layer để chỉnh lại), Hủy trả về như cũ.
+
 ## 1.26.4 – 2026-10-15
 - Layer và nhóm hiệu ứng mới luôn nằm ở cấp trên cùng, không chui vào nhóm khác.
 

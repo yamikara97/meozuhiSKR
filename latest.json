@@ -1,8 +1,8 @@
 {
-  "version": "1.26.4",
-  "date": "2026-10-15",
+  "version": "1.27.0",
+  "date": "2026-10-22",
   "url": "https://github.com/yamikara97/meozuhiSKR/raw/main/meozuhiSRT.ccx",
   "page": "https://github.com/yamikara97/meozuhiSKR",
-  "notes": "Layer và nhóm hiệu ứng mới luôn nằm trên cùng, không chui vào nhóm khác.",
+  "notes": "Thử nghiệm: Glow Pro chỉnh trực tiếp (xem trước ngay trên ảnh, Lưu / Hủy).",
   "minVersion": "1.0.0"
 }
