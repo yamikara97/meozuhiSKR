@@ -1,5 +1,8 @@
 # Nhật ký thay đổi
 
+## 1.28.0 – 2026-10-24
+- Tab mới **Stock FX**: chọn thư mục ảnh stock trên máy (nhớ cho lần sau), lọc theo tên, xem trước, đặt vào ảnh với kích thước / vị trí / xoay / lật / độ đậm; ảnh nền đen tự dùng Screen, PNG trong suốt dùng Normal.
+
 ## 1.27.0 – 2026-10-22
 - Thử nghiệm Glow Pro "Chỉnh trực tiếp": kéo thanh xem ngay trên ảnh, Lưu giữ lại (thông số nằm trong tên layer để chỉnh lại), Hủy trả về như cũ.
 
