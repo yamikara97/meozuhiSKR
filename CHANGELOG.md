@@ -1,5 +1,10 @@
 # Nhật ký thay đổi
 
+## 1.29.0 – 2026-10-24
+- Stock FX: sau khi đặt, kéo thanh kích thước / vị trí / xoay / lật là layer tự cập nhật (độ đậm và blend đổi ngay).
+- Đo hướng sáng của ảnh (núm xoay chỉnh được), tự lật stock nếu ngược hướng sáng (đọc đuôi tên file _L/_R/_U/_D hoặc đo từ chính stock).
+- Pha màu theo ánh sáng của ảnh; "Nằm sau nhân vật": ẩn phần trùng nhân vật bằng mask (vùng chọn có sẵn hoặc Select Subject).
+
 ## 1.28.0 – 2026-10-24
 - Tab mới **Stock FX**: chọn thư mục ảnh stock trên máy (nhớ cho lần sau), lọc theo tên, xem trước, đặt vào ảnh với kích thước / vị trí / xoay / lật / độ đậm; ảnh nền đen tự dùng Screen, PNG trong suốt dùng Normal.
 
