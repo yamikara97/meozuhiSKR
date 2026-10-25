@@ -1,8 +1,8 @@
 {
-  "version": "1.29.0",
-  "date": "2026-10-24",
+  "version": "1.30.0",
+  "date": "2026-10-25",
   "url": "https://github.com/yamikara97/meozuhiSKR/raw/main/meozuhiSRT.ccx",
   "page": "https://github.com/yamikara97/meozuhiSKR",
-  "notes": "Stock FX: kéo thanh là layer cập nhật, tự đo và khớp hướng sáng, pha màu theo ảnh, che phần trùng nhân vật bằng mask.",
+  "notes": "Tab mới Lọn tóc: thay lọn tóc rối / thêm tóc bằng lọn stock nền xanh (uốn theo vùng chọn, đổi màu theo tóc, gốc tan dần).",
   "minVersion": "1.0.0"
 }

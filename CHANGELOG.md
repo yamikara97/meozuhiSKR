@@ -1,5 +1,8 @@
 # Nhật ký thay đổi
 
+## 1.30.0 – 2026-10-25
+- Tab mới **Lọn tóc**: chọn thư mục lọn stock (nền xanh), khoanh vùng lọn cần thay (hoặc vẽ Pen path), plugin tách nền, uốn lọn theo vùng, đổi màu theo tóc, gốc tan dần vào tóc thật. Kéo thanh độ rộng / độ uốn / độ đậm / sáng / gốc tan là cập nhật.
+
 ## 1.29.0 – 2026-10-24
 - Stock FX: sau khi đặt, kéo thanh kích thước / vị trí / xoay / lật là layer tự cập nhật (độ đậm và blend đổi ngay).
 - Đo hướng sáng của ảnh (núm xoay chỉnh được), tự lật stock nếu ngược hướng sáng (đọc đuôi tên file _L/_R/_U/_D hoặc đo từ chính stock).
