@@ -1,5 +1,9 @@
 # Nhật ký thay đổi
 
+## 1.31.0 – 2026-10-29
+- Giao diện mới: **thanh bên dạng cây** (nhóm Da & khuôn mặt / Ánh sáng & màu / Stock & tóc / Công cụ), mỗi mục có icon; bấm một mục là mở tab ngay cạnh, thanh bên đứng yên khi kéo nội dung.
+- Panel hẹp (dưới ~470px) tự thu thành cột icon; nút ≡ để thu gọn / mở rộng tay (nhớ lựa chọn), bấm tên nhóm để gập.
+
 ## 1.30.0 – 2026-10-25
 - Tab mới **Lọn tóc**: chọn thư mục lọn stock (nền xanh), khoanh vùng lọn cần thay (hoặc vẽ Pen path), plugin tách nền, uốn lọn theo vùng, đổi màu theo tóc, gốc tan dần vào tóc thật. Kéo thanh độ rộng / độ uốn / độ đậm / sáng / gốc tan là cập nhật.
 

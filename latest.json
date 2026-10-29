@@ -1,8 +1,8 @@
 {
-  "version": "1.30.0",
-  "date": "2026-10-25",
+  "version": "1.31.0",
+  "date": "2026-10-29",
   "url": "https://github.com/yamikara97/meozuhiSKR/raw/main/meozuhiSRT.ccx",
   "page": "https://github.com/yamikara97/meozuhiSKR",
-  "notes": "Tab mới Lọn tóc: thay lọn tóc rối / thêm tóc bằng lọn stock nền xanh (uốn theo vùng chọn, đổi màu theo tóc, gốc tan dần).",
+  "notes": "Giao diện mới: thanh bên dạng cây có icon, bấm là mở tab ngay bên cạnh; panel hẹp chỉ còn cột icon.",
   "minVersion": "1.0.0"
 }
