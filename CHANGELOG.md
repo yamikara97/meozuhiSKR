@@ -1,5 +1,8 @@
 # Nhật ký thay đổi
 
+## 1.33.0 – 2026-10-29
+- Tab Chải & vẽ tóc thêm **Cọ vẽ sợi tóc**: bấm Tạo lớp vẽ sợi (layer trong suốt + cọ 3px), vẽ tay từng sợi; bấm Làm mượt sợi để nét run thành đường cong mượt, sợi thon đầu, giữ màu nét vẽ. Hỗ trợ Freeform Pen (mỗi nét một sợi). Chỉnh độ mượt nét, độ dày, độ thon, gốc sợi.
+
 ## 1.32.0 – 2026-10-29
 - Tab mới **Chải & vẽ tóc** (nhóm Stock & tóc):
   - **Cà mượt & tách sợi**: khoanh vùng tóc rối / bết → tóc được chải theo dòng chảy, giữ sáng tối; chỉnh độ mượt, độ sợi, chiều dài sợi, tách sợi, hướng chải.

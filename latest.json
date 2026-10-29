@@ -1,8 +1,8 @@
 {
-  "version": "1.32.0",
+  "version": "1.33.0",
   "date": "2026-10-29",
   "url": "https://github.com/yamikara97/meozuhiSKR/raw/main/meozuhiSRT.ccx",
   "page": "https://github.com/yamikara97/meozuhiSKR",
-  "notes": "Tab mới Chải & vẽ tóc: cà mượt / tách sợi tóc rối theo dòng chảy, vẽ lọn tóc từ đường Pen (tự sửa nét run, tự uốn cong).",
+  "notes": "Cọ vẽ sợi tóc: vẽ tay từng sợi (cọ hoặc Freeform Pen), plugin làm mượt nét run và vẽ lại thành sợi thon đầu.",
   "minVersion": "1.0.0"
 }
