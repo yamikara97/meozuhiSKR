@@ -1,8 +1,8 @@
 {
-  "version": "1.31.0",
+  "version": "1.32.0",
   "date": "2026-10-29",
   "url": "https://github.com/yamikara97/meozuhiSKR/raw/main/meozuhiSRT.ccx",
   "page": "https://github.com/yamikara97/meozuhiSKR",
-  "notes": "Giao diện mới: thanh bên dạng cây có icon, bấm là mở tab ngay bên cạnh; panel hẹp chỉ còn cột icon.",
+  "notes": "Tab mới Chải & vẽ tóc: cà mượt / tách sợi tóc rối theo dòng chảy, vẽ lọn tóc từ đường Pen (tự sửa nét run, tự uốn cong).",
   "minVersion": "1.0.0"
 }

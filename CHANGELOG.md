@@ -1,5 +1,11 @@
 # Nhật ký thay đổi
 
+## 1.32.0 – 2026-10-29
+- Tab mới **Chải & vẽ tóc** (nhóm Stock & tóc):
+  - **Cà mượt & tách sợi**: khoanh vùng tóc rối / bết → tóc được chải theo dòng chảy, giữ sáng tối; chỉnh độ mượt, độ sợi, chiều dài sợi, tách sợi, hướng chải.
+  - **Vẽ lọn tóc**: vẽ Pen path từ gốc ra ngọn → nét run tự làm mượt, nét thẳng tự uốn cong (C hoặc S); màu lấy từ tóc ở gốc; tách đuôi thành sợi, sợi bay.
+- Tab Lọn tóc (ghép stock) đổi tên thành "Lọn tóc stock".
+
 ## 1.31.0 – 2026-10-29
 - Giao diện mới: **thanh bên dạng cây** (nhóm Da & khuôn mặt / Ánh sáng & màu / Stock & tóc / Công cụ), mỗi mục có icon; bấm một mục là mở tab ngay cạnh, thanh bên đứng yên khi kéo nội dung.
 - Panel hẹp (dưới ~470px) tự thu thành cột icon; nút ≡ để thu gọn / mở rộng tay (nhớ lựa chọn), bấm tên nhóm để gập.
