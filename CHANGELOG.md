@@ -1,5 +1,9 @@
 # Nhật ký thay đổi
 
+## 1.34.0 – 2026-11-17
+- Cà da thủ công thuật toán mới (dải tần): gỡ sần giữ vân và đường nét; thêm thanh Đều màu chuyển, Xoá rãnh / nếp.
+- Bỏ tab tóc (Chải & vẽ tóc, Lọn tóc stock) và ẩn Cà da tự động.
+
 ## 1.33.0 – 2026-10-29
 - Tab Chải & vẽ tóc thêm **Cọ vẽ sợi tóc**: bấm Tạo lớp vẽ sợi (layer trong suốt + cọ 3px), vẽ tay từng sợi; bấm Làm mượt sợi để nét run thành đường cong mượt, sợi thon đầu, giữ màu nét vẽ. Hỗ trợ Freeform Pen (mỗi nét một sợi). Chỉnh độ mượt nét, độ dày, độ thon, gốc sợi.
 
