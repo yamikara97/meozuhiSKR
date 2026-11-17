@@ -1,5 +1,8 @@
 # Nhật ký thay đổi
 
+## 1.34.1 – 2026-11-17
+- Cà da thủ công nhanh gần gấp đôi (tính lớp tần thấp ở ảnh thu nhỏ, ô 2048px), kết quả gần như y hệt.
+
 ## 1.34.0 – 2026-11-17
 - Cà da thủ công thuật toán mới (dải tần): gỡ sần giữ vân và đường nét; thêm thanh Đều màu chuyển, Xoá rãnh / nếp.
 - Bỏ tab tóc (Chải & vẽ tóc, Lọn tóc stock) và ẩn Cà da tự động.
